@@ -1,0 +1,108 @@
+#login{
+	width:100%;
+	height:600px;
+	background:url("../images/sep.jpg") no-repeat -200px;
+	margin:0 auto;
+	overflow: hidden;
+}
+#login .login{
+	width:300px;
+	height:369px;
+	background:#fff;
+	margin-left:60%;
+	margin-top:40px;
+	padding:22px 25px 0 25px;
+	position:relative;
+}
+#login .login h2{
+    height:18px;
+    line-height:18px;
+    font-size:16px;
+    font-weight:normal;
+    margin-bottom:36px;
+}
+#login .login input{
+	width:298px;
+	height:40px;
+	border:1px solid #E1E1E1;
+}
+#login .login #txt1{
+	background:url('../images/yonghu.png') no-repeat;
+	border:1px solid #00BBD7;
+    padding-left: 45px;
+	width:253px;
+	font-size:12px;
+	margin-bottom:15px;
+}
+#login .login #txt2{
+	background: url("../images/mima.png") no-repeat,url("../images/mi2.png") no-repeat 273px 12px;
+	/*background:url("../images/mi2.png") no-repeat 273px 12px;*/
+	font-size: 12px;
+	padding-left:45px;
+	width:253px;
+	margin-bottom:7px;
+}
+#login .login .forget{
+	width:284px;
+	height:40px;
+	padding:0 13px 0 3px;
+	line-height:40px;
+	font-size:14px;
+	cursor: pointer;
+}
+#login .login .forget a{
+	float: right;
+	color:#313014;
+}
+#login .login #denglu{
+	width:300px;
+	height:40px;
+	line-height: 40px;
+	background: #01BAD6;
+	color:#fff;
+	font-size:18px;
+}
+#login .login p{
+	height:40px;
+	/*line-height: 40px;*/
+	width:100%;
+	font-size: 12px;
+	/*background:red;*/
+}
+#login .login p span{
+	line-height:40px;
+}
+#login .login p a{
+	color:#00C8E9;
+	padding-top:30px;
+}
+#login .txt1{
+	width:300px;
+	height:15px;
+	/*background:red;*/
+	color:red;
+	position: absolute;
+	left:25px;
+	top:118px;
+	font-size:12px;
+	line-height:15px;
+	display: none;
+}
+#login .txt22{
+	width:300px;
+	height:15px;
+	/*background:red;*/
+	color:red;
+	position: absolute;
+	left:25px;
+	top:175px;
+	font-size:12px;
+	line-height:15px;
+	display: none;
+}
+
+
+
+
+
+
